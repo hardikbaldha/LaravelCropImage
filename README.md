@@ -17,14 +17,13 @@ composer update
 .env
 ```
 
- run migration 
+run migration 
 
 ```bash
 php artisan migrate
-
-create .env for database connection 
-
-
+```
 run project 
+
 ```bash
 php artisan serve
+```
